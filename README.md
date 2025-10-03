@@ -1,10 +1,6 @@
 # 🚀 Dante Beltrán: DevOps Engineer & Full-Stack Developer
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=9C27B0&size=28&center=true&vCenter=true&width=700&height=50&lines=DevOps+Engineer+%E2%80%A2+Cloud+Automation+Expert+%E2%80%A2+Full-Stack+Developer;Building,+Automating,+and+Scaling+Infrastructure;Certified+Programmer+%26+CS+Student+at+UTN" alt="Typing SVG" />
-  </a>
-</p>
+
 
 ---
 
@@ -16,9 +12,6 @@ Soy un apasionado de la **Ingeniería de DevOps** y el **Desarrollo de Software*
 - **Formación:** **Técnico Universitario en Programación** y actualmente estudiante de **Ingeniería en Sistemas de Información** en la **Universidad Tecnológica Nacional (UTN)**.
 - **Experiencia:** Desarrollo de soluciones con un enfoque en la **integración** y **entrega continua**.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmN8APmS9U6zvA9v9N/giphy.gif" width="250" alt="DevOps GIF" />
-</div>
 
 ---
 
