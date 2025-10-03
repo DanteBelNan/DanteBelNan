@@ -1,11 +1,5 @@
 # 🚀 Dante Beltrán: DevOps Engineer & Full-Stack Developer
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=9C27B0&size=28&center=true&vCenter=true&width=700&height=50&lines=DevOps+Engineer+%E2%80%A2+Cloud+Automation+Expert+%E2%80%A2+Full-Stack+Developer;Building,+Automating,+and+Scaling+Infrastructure;Certified+Programmer+%26+CS+Student+at+UTN" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ## 💡 Sobre Mí
@@ -69,7 +63,7 @@ Aquí puedes encontrar algunos repositorios que reflejan mi trabajo en **automat
 ### Plantillas de Desarrollo
 | Repositorio | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **[`node-template-app`](https://github.com/DanteBelNan/node_template)** | Plantilla de proyecto **Node.js** con configuraciones base y *boilerplate* listo para ser desplegado. | `Node.js`, `JavaScript`, `Express` |
+| **[`node-template-app`](https://github.com/DanteBelNan/node_template)** | Plantilla de proyecto **Node.js** con configuraciones base y *boilerplate* listo para ser desplegado. | `Node.js`, `JavaScript`, `Express`, `Postgress` |
 
 <br>
 
@@ -116,5 +110,4 @@ Aquí puedes encontrar algunos repositorios que reflejan mi trabajo en **automat
 <div align='center'>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer GIF" />
   <br>
-  **Dante Beltrán... automatizando el futuro.** ✨
 </div>
