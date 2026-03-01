@@ -25,11 +25,6 @@ Plataforma de gaming orientada a la experiencia de usuario y el rendimiento.
 - **Enfoque:** Desarrollo de backend de alto rendimiento y frontend moderno para una experiencia interactiva.
 - **Rol:** Arquitectura de servicios y lógica de servidor para soporte multi-usuario.
 
-### 🏗️ [Terraform AWS Infrastructure](https://github.com/DanteBelNan/terraform) `⚠️ WIP`
-Proyecto en desarrollo para el aprovisionamiento de infraestructura como código.
-- **Objetivo:** Levantar una plataforma completa de hosting para sitios basados en **Node.js** de forma automatizada en **AWS**.
-- **Herramientas:** Terraform, módulos de red y computación escalable.
-
 ---
 
 ## 🛠️ Stack & Habilidades
