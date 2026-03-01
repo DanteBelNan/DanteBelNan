@@ -49,14 +49,6 @@ Plataforma de gaming orientada a la experiencia de usuario y el rendimiento.
 
 ---
 
-## 📈 Estadísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanteBelNan&show_icons=true&theme=dark&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteBelNan&layout=compact&theme=dark&border_radius=10" alt="Top Langs" />
-</div>
-
----
-
 ## 🤝 Conectemos
 
 ¡Siempre abierto a colaborar en proyectos de código abierto, arquitecturas en la nube o nuevas plataformas!
