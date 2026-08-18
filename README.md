@@ -37,13 +37,6 @@ Software Engineer focused on backend architecture, high-concurrency systems, and
 
 ---
 
-## 📈 GitHub Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/216e39/DanteBelNan" alt="Dante's Contribution Chart" width="100%" />
-</p>
-
----
 
 ## 📬 Connect
 
