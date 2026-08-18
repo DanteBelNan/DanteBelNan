@@ -1,59 +1,51 @@
-# 🚀 Dante Beltrán | Software Engineer & DevOps Enthusiast
+# Dante Beltrán
+### Software Engineer
+
+Software Engineer focused on backend architecture, high-concurrency systems, and telemetry. Graduate **University Programming Technician** and currently pursuing a B.S. in **Information Systems Engineering** at **UTN** (Universidad Tecnológica Nacional).
 
 ---
 
-## 💡 Sobre Mí
+## 🛠 Tech Stack & Tools
 
-Soy **Técnico Universitario en Programación** y estudiante de **Ingeniería en Sistemas de Información** en la **UTN**. Mi perfil combina el desarrollo de aplicaciones escalables con la cultura **DevOps**, permitiéndome diseñar soluciones que van desde la lógica de negocio hasta la infraestructura automatizada.
+#### Backend & Core Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-- **Backend & Platforms:** Especializado en **Go**, **Java (Spring Boot)**, **Python** y **Node.js**.
-- **DevOps Mindset:** Automatización de infraestructura con **Terraform**, **Ansible** y gestión de nubes en **AWS**.
-- **Visión:** Enfocado en la construcción de plataformas de sitios web y microservicios con alta disponibilidad y escalabilidad.
-
----
-
-## 📂 Proyectos Destacados
-
-### 💊 [MedTrack](https://github.com/DanteBelNan/medtrack) `⚠️ WIP`
-Sistema integral para la gestión y seguimiento de medicación con arquitectura de microservicios.
-- **Stack:** Java Spring Boot para el core y Go para el servicio de notificaciones.
-- **Data:** Implementación de PostgreSQL y Redis.
-- **DevOps:** Entorno contenerizado y preparado para despliegue continuo.
-
-### 🎮 [PARJOY](https://github.com/PARJOY) `⚠️ WIP`
-Plataforma de gaming orientada a la experiencia de usuario y el rendimiento.
-- **Enfoque:** Desarrollo de backend de alto rendimiento y frontend moderno para una experiencia interactiva.
-- **Rol:** Arquitectura de servicios y lógica de servidor para soporte multi-usuario.
+#### Observability, Cloud & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
-## 🛠️ Stack & Habilidades
+## 📌 Areas of Focus & Engineering Philosophy
 
-### 💻 Desarrollo de Software
+- **High-Performance Backends & Tooling:** Designing scalable services, concurrent systems, and developer tooling primarily in **Go**.
+- **Observability & System Resilience:** Strong advocate for deep telemetry—implementing end-to-end distributed tracing, metrics, and logs to ensure system reliability and deep runtime visibility.
+- **Applied Engineering & Hardware:** Actively exploring **IoT and Robotics**, connecting backend architectures and communication protocols with embedded physical systems.
+- **Value-Driven Software:** Dedicated to shipping reliable, maintainable software engineered to solve real-world problems.
+
+---
+
+## 📈 GitHub Contributions
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-### ☁️ Cloud & Automatización
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://ghchart.rshah.org/216e39/DanteBelNan" alt="Dante's Contribution Chart" width="100%" />
 </p>
 
 ---
 
-## 🤝 Conectemos
+## 📬 Connect
 
-¡Siempre abierto a colaborar en proyectos de código abierto, arquitecturas en la nube o nuevas plataformas!
-
-<p align="left">
-<a href="https://www.linkedin.com/in/dante-beltran-bb9626216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:dantebelnan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dante-beltran-bb9626216/)
+[![Email](https://img.shields.io/badge/Email-dantebelnan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dantebelnan@gmail.com)
